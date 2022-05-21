@@ -37,6 +37,11 @@ button {
   font-weight: 700;
 }
 
+img {
+  width: 240px;
+  height: 160px;
+}
+
 .header {
   display: flex;
   justify-content: space-evenly;
@@ -68,7 +73,23 @@ button {
   margin: 16px;
 }
 
+.main-content {
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+  padding: 48px;
+}
+
 .quote {
+  color: #1F2937;
   background-color: #E5E7EB;
   font-size: 36px;
+  padding: 112px;
+}
+
+.quote p {
+  font-size: 18px;
+  text-align: right;
+  color: #1F2937;
+  font-weight: 700;
 }
