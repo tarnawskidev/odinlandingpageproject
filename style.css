@@ -20,6 +20,13 @@ h1 {
   margin: 8px;
 }
 
+h2 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 900;
+  color:#1F2937;
+}
+
 p {
   color: #E5E7EB;
   font-size: 18px;
@@ -40,6 +47,8 @@ button {
 img {
   width: 240px;
   height: 160px;
+  border-radius: 12px;
+  border: 4px solid #3882F6;
 }
 
 .header {
@@ -73,7 +82,7 @@ img {
   margin: 16px;
 }
 
-.main-content {
+.infobar {
   display: flex;
   justify-content: center;
   gap: 42px;
@@ -92,4 +101,8 @@ img {
   text-align: right;
   color: #1F2937;
   font-weight: 700;
+}
+
+.caption {
+  text-align: center;
 }
