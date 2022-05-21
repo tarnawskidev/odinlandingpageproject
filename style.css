@@ -82,6 +82,10 @@ img {
   margin: 16px;
 }
 
+.main-content {
+  padding: 44px;
+}
+
 .infobar {
   display: flex;
   justify-content: center;
@@ -105,4 +109,8 @@ img {
 
 .caption {
   text-align: center;
+}
+
+.call-to-action {
+  background-color: #3882F6;
 }
