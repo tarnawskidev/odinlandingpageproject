@@ -1,2 +1,2 @@
 # odinlandingpageproject
-Practice creating full site
+Practice creating full webpage
